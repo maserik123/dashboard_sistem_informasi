@@ -64,7 +64,7 @@
         <div class="col-md-12">
             <small class="badge btn-primary">Daftar Summary Dosen : </small>
             <br>
-            <small>Data Dosen yang ditampilkan berdasarkan tahun saat ini.</small>
+            <small>Data Dosen yang ditampilkan berdasarkan tahun saat ini ( <?php echo date('Y') ?> ).</small>
             <hr>
         </div>
         <!-- Earnings (Monthly) Card Example -->
