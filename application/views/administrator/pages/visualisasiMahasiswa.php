@@ -373,7 +373,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -429,7 +429,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -485,7 +485,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -541,7 +541,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -597,7 +597,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -653,7 +653,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -709,7 +709,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
@@ -766,7 +766,7 @@
         "valueAxes": [{
             "axisAlpha": 0,
             "position": "left",
-            "title": "TAK Mahasiswa Perkelas"
+            "title": "IPK Mahasiswa Perkelas"
         }],
         "startDuration": 1,
         "graphs": [{
